@@ -33,7 +33,7 @@ Use the following credentials to access the application:
 
 **Email:** [admin@gmail.com](mailto:admin@gmail.com)
 
-**Password:** password
+**Password:** 12345678
 
 ## Installation
 
